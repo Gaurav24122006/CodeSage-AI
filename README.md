@@ -98,26 +98,6 @@ OPENROUTER_MODEL=deepseek/deepseek-chat-v3-0324:free
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-(Add Screenshot)
-
-### Review Result
-
-(Add Screenshot)
-
-### Big-O Analysis
-
-(Add Screenshot)
-
-### PDF Report
-
-(Add Screenshot)
-
----
-
 ## 📈 Future Improvements
 
 - Explain Code
